@@ -3,7 +3,7 @@
 #include <stdint.h>
 #include <stdlib.h>
 #include <stdbool.h>
-
+#include <string.h>
 
 int main(){
    char buf[256];
